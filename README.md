@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B1188D&width=435&lines=this+is+Vizzinii+,+welcome+!)](https://git.io/typing-svg)
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vizzinii&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vizzinii&theme=radical)](https://github.com/Vizzinii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vizzinii&theme=radical&layout=compact)](https://github.com/Vizzinii/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vizzinii&theme=radical&hide_border=true&layout=compact&langs_count=22" />
