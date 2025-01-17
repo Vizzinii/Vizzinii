@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=618EF7&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vizzinii)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vizzinii&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vizzinii&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vizzinii)](https://github.com/Vizzinii/github-readme-stats)
