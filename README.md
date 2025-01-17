@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vizzinii&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vizzinii&theme=radical&layout=compact)](https://github.com/Vizzinii/github-readme-stats)
 
