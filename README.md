@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0F777&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={Vizzinii}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
